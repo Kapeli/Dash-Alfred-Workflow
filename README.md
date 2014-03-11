@@ -1,7 +1,9 @@
 Dash.alfredworkflow
 ====================
 
-This is the Dash Alfred workflow which comes bundled with Dash.
+This is the Dash Alfred workflow which comes bundled with [Dash](http://kapeli.com/dash). Dash lets users instantly search through documentation for 130+ APIs (ranging from HTML to Cocoa). All of the Dash-supported documentation sets are available for offline use.
+
+For more information, check out [Dash's webpage](http://kapeli.com/dash).
 
 # Installation
 
